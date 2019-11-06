@@ -1,3 +1,3 @@
 # mostly_harmless
-
-Leftie
+There Will Be Fine Code.
+Leftie.
